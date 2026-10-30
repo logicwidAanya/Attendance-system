@@ -192,9 +192,9 @@ http://localhost:8501
 
 ## 👩‍💻 Author
 
-**Sejal Malviya**
+**Aanya Brijpuriya**
 
-- GitHub: [@sejal-26](https://github.com/sejal-26)
+- GitHub: [https://github.com/logicwidAanya]
 - Project: [Multimodal Attendance & Engagement Agent](https://github.com/sejal-26/multimodal-attendance-agent)
 
 ---
